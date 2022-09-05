@@ -1,0 +1,10 @@
+# Quantumult-X-图标
+## 1.动作https://raw.githubusercontent.com/LovedGM/Quantumult-X-TuBiao/main/dongzuo.json
+
+## 2.姿势https://raw.githubusercontent.com/LovedGM/Quantumult-X-TuBiao/main/zishi-cs.json
+
+## 3.QureColorhttps://raw.githubusercontent.com/Koolson/Qure/master/Other/QureColor-Media.json
+
+## 4.minihttps://raw.githubusercontent.com/Orz-3/mini/master/mini.json
+
+## 5.颜色https://raw.githubusercontent.com/Orz-3/mini/master/Color+.json
