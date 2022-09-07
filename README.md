@@ -15,4 +15,4 @@ https://raw.githubusercontent.com/Orz-3/mini/master/mini.json
 https://raw.githubusercontent.com/Orz-3/mini/master/Color+.json
 
 ## 6.彩色 LOGO
-https://raw.githubusercontent.com/WSL33099/QuantumultX/main/Icon/Collection/Icon.json[9.7Icon.json.zip](https://github.com/Patrickst2/Quantumult-X-icon/files/9501884/9.7Icon.json.zip)
+https://raw.githubusercontent.com/WSL33099/QuantumultX/main/Icon/Collection/Icon.json
